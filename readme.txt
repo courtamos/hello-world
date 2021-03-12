@@ -1,4 +1,7 @@
-hello,
-this is a read me file.
-it says hello.
-bye.
+Hello,
+This is a read me file.
+It says hello.
+
+Here's an additional line.
+
+Bye.
